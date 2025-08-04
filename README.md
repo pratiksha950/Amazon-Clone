@@ -19,7 +19,7 @@ Responsive layout for various screen sizes (optional if implemented)
 
 📸 Screenshot
 
-![Amazon Clone Screenshot](./index/Home-Page.png)
+![Amazon Clone Screenshot](./images/Home-Page.png)
 
 🚀 How to Run<br>
 1)Download or Clone the Repo
